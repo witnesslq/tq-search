@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java_search/!svn/ver/14/trunk/tq-search/src/main/resources
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java_search/!svn/ver/39/trunk/tq-search/src/main/resources/application.properties
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java_search/!svn/ver/50/trunk/tq-search/src/main/resources/logback.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java_search/!svn/ver/59/trunk/tq-search/src/main/resources/applicationContext.xml
+END

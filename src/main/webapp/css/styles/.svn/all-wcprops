@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles
+END
+common.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/common.css
+END
+replication.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/replication.css
+END
+dataimport.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/dataimport.css
+END
+index.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/index.css
+END
+cores.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/cores.css
+END
+dashboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/dashboard.css
+END
+cloud.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/cloud.css
+END
+files.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/files.css
+END
+documents.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/documents.css
+END
+analysis.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/analysis.css
+END
+schema-browser.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/schema-browser.css
+END
+java-properties.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/java-properties.css
+END
+logging.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/logging.css
+END
+menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/menu.css
+END
+plugins.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/plugins.css
+END
+segments.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/segments.css
+END
+query.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/query.css
+END
+threads.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/css/styles/threads.css
+END

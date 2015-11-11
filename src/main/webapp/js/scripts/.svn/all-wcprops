@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts
+END
+files.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/files.js
+END
+cloud.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/cloud.js
+END
+cores.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/cores.js
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/dashboard.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/index.js
+END
+ping.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/ping.js
+END
+dataimport.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/dataimport.js
+END
+replication.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/replication.js
+END
+threads.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/threads.js
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/query.js
+END
+app.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/app.js
+END
+plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/plugins.js
+END
+segments.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/segments.js
+END
+logging.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/logging.js
+END
+java-properties.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/java-properties.js
+END
+analysis.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/analysis.js
+END
+schema-browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/schema-browser.js
+END
+documents.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/scripts/documents.js
+END

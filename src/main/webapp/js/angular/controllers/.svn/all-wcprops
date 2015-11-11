@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers
+END
+files.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/files.js
+END
+cloud.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/cloud.js
+END
+cores.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/cores.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/index.js
+END
+dataimport.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/dataimport.js
+END
+replication.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/replication.js
+END
+threads.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/threads.js
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/query.js
+END
+core-overview.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/core-overview.js
+END
+plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/plugins.js
+END
+segments.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/segments.js
+END
+logging.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/logging.js
+END
+java-properties.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/java-properties.js
+END
+analysis.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/analysis.js
+END
+schema-browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/schema-browser.js
+END
+documents.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java_search/!svn/ver/6/trunk/tq-search/src/main/webapp/js/angular/controllers/documents.js
+END
